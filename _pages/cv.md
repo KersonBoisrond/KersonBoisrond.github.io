@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ai-driven Cybersecurity, Sherbrooke University, 2025 (expected)
+* M.S. in Software Engineer, Sherbrooke University, 2014
+* 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Spring 2024: Academic Collaborator
+  * Sherbrooke University
+  * Duties includes: Research and publications article in conference and journal
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * Sherbrooke University
+  * Duties included: Research and publications article in conference and journal
+  * Supervisor: Professor Pierre Martin Tardif
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2025: Research Assistant
+  * Sherbrooke University
+  * Duties included: Research and publications article in conference and journal
+  * Supervisor: Professor Pierre Martin Tardif
   
 Skills
 ======
